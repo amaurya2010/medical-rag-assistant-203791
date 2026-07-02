@@ -7,7 +7,7 @@ sentence-transformers (embeddings), and OpenAI GPT-4o (generation).
 ## Folder contents
 
 ```
-medical-rag-assistant/
+medical-rag-assistant-203791/
 ├── Medical_Diagnosis_Assistant_RAG.ipynb   # main capstone notebook
 ├── data/
 │   ├── healthcare_patients.csv
