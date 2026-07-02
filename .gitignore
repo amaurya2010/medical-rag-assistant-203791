@@ -4,6 +4,7 @@
 .venv/
 env/
 venv/
+vector_store/
 
 # =========================================================================
 # 2. LOCAL CONFIGURATIONS & SENSITIVE DATA
